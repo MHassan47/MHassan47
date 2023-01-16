@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there 👋, my name is Mohamed Hassan
+#### I am Full Stack Developer
+I have a background in Bioinformatics and a year of experience in creating and executing innovative software solutions in  startup environments
 
-<!--
-**MHassan47/MHassan47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Skills
 
-Here are some ideas to get you started:
+**LANGUAGES**: JavaScript, TypeScript, Python, HTML, CSS, Ruby 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**FRAMEWORKS & LIBRARIES**: React, NodeJS, Redux, Express.js, React Native, Flask, TailwindCSS, Material UI, Next.js 
+
+**DATABASES & SYSTEMS**: PostgreSQL, MongoDB, GraphQL, AWS, Git, Prisma 
+
+**TESTING**: Jest, Mocha, Cypress, Chai
+
+- 🔭 I’m currently working on [a Health Tech app](https://github.com/MHassan47/clinic) 
+- 🌱 I’m currently learning Docker & Kubernetes 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/MHassan47)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mhassan47//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://portfolio-mhassan47.vercel.app/)  
+
+
